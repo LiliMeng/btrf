@@ -5,6 +5,7 @@ This is a modified implementation of the following paper:
 
 # Backtracking Regression Forests for Accurate Camera Relocalization
 Lili Meng, Jianhui Chen, Frederick Tung, James J. Little, Julien Valentin, and Clarence de Silva
+
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2017)
 
 Citation:
