@@ -1,7 +1,11 @@
-# btrf
+## btrf
 Backtracking regression forest
 
-This is a modified implementation of paper
+This is a modified implementation of the following paper:
+
+# Backtracking Regression Forests for Accurate Camera Relocalization
+
+citation:
 
 @inproceedings{meng2017backtracking,
 	title={Backtracking Regression Forests for Accurate Camera Relocalization},
