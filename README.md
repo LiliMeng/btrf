@@ -22,7 +22,7 @@ citation:
 
 The code is tested on Xcode 6.4 on a Mac 10.10.5 system. But the code has minimum dependence on compile and system, so it should work well on linux and windows as well.
 
-#File structure:
+## File structure:
 src/btrf_*.hpp and src/btrf_*.cpp: the main algorithm for backtracking regression forst.
 
 src/cmd: three files for training, testing of world coordinates prediction from RGB-D images, and camera pose estitation
