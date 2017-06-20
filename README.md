@@ -4,17 +4,18 @@ Backtracking regression forest
 This is a modified implementation of the following paper:
 
 # Backtracking Regression Forests for Accurate Camera Relocalization
+Lili Meng, Jianhui Chen, Frederick Tung, James J. Little, Julien Valentin, and Clarence de Silva
 
 citation:
 
 @inproceedings{meng2017backtracking,
 	title={Backtracking Regression Forests for Accurate Camera Relocalization},
-	author={Meng, Lili and Chen, Jianhui and Tung, Frederick and Little J., James and Valentin, Julien and Silva, Clarence},
+	author={Meng, Lili and Chen, Jianhui and Tung, Frederick and Little J., James and Valentin, Julien and de Silva, Clarence},
 	booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2017)},  
 	year={2011}  
 }
 
-#Dependences:
+## Dependences:
 1. OpenCV 3.1 or later. 
 2. Eigen 3.2.6 or later.
 3. flann 1.8.4 or later.
